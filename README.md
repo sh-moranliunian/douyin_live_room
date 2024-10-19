@@ -12,7 +12,7 @@
     <th width="50%">微信</th>
   </tr>
   <tr></tr>
-  <tr align="center">
+  <tr align="left">
     <td><img width="70%" src="https://github.com/sh-moranliunian/douyin_live_room/blob/main/img/WechatIMG3.jpg"></td>
   </tr>
 </table>
