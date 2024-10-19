@@ -9,13 +9,11 @@
 
 <table>
   <tr>
-    <th width="50%">支付宝</th>
     <th width="50%">微信</th>
   </tr>
   <tr></tr>
   <tr align="center">
     <td><img width="70%" src=""></td>
-    <td><img width="70%" src=""></td>
   </tr>
 </table>
 
