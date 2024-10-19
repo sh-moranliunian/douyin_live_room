@@ -7,12 +7,5 @@
 
 如果该项目对您有帮助，欢迎捐赠
 
-<table>
-  <tr>
-    <th width="50%">微信</th>
-  </tr>
-  <tr align="left">
-    <td><img width="70%" src="https://github.com/sh-moranliunian/douyin_live_room/blob/main/img/WechatIMG3.jpg"></td>
-  </tr>
-</table>
+![图片1](./img/WechatIMG3.jpg)
 
