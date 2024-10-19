@@ -5,7 +5,7 @@
 
 # donate
 
-如果该项目对您有帮助，欢迎捐赠
+如果该项目对您有帮助，欢迎微信打赏
 
 <img src="./img/WechatIMG3.jpg" width="33.3%" />
 
