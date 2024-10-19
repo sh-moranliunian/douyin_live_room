@@ -7,5 +7,5 @@
 
 如果该项目对您有帮助，欢迎捐赠
 
-<img src="./img/WechatIMG3.jpg" width="50%" />
+<img src="./img/WechatIMG3.jpg" width="33.3%" />
 
