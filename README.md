@@ -13,7 +13,7 @@
   </tr>
   <tr></tr>
   <tr align="center">
-    <td><img width="70%" src=""></td>
+    <td><img width="70%" src="https://github.com/sh-moranliunian/douyin_live_room/blob/main/img/WechatIMG3.jpg"></td>
   </tr>
 </table>
 
